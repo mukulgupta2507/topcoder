@@ -5,6 +5,7 @@ import java.util.Arrays;
 /**
  * 
  * @author Mukul Gupta
+ * Time complexity: O(n^2 * 2^n)
  *
  */
 public class TravellingSalesman {
